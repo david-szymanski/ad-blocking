@@ -1,0 +1,10 @@
+# Title: FortiGate Ad-Blocking Domain List
+# Author / Curator: David Szymanski
+# Description: This list of domain names is designed to be used by FortiGate as an external connector ("Domain Name Threat Feed") in conjunction with a
+# DNS Filtering Security Profile so that ads on various websites and streaming platforms can be blocked effectively network-wide.
+
+# Youtube
+
+googleads.g.doubleclick.net # A redirect to Google's AdSense platform, which serves ads across various websites and apps.
+
+# Hulu 
