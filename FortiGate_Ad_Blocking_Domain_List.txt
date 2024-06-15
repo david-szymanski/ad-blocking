@@ -6,11 +6,11 @@
 # Youtube
 
 googleads.g.doubleclick.net
-#googleads2.g.doubleclick.net
-#googleads4.g.doubleclick.net
+googleads2.g.doubleclick.net
+googleads4.g.doubleclick.net
 static.doubleclick.net
 www.googleadservices.com
-#ad.doubleclick.net
+ad.doubleclick.net
 tpc.googlesyndication.com
 ade.googlesyndication.com
 buttons.googlesyndication.com
