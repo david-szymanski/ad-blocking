@@ -5,7 +5,7 @@
 
 # Youtube
 
-googleads.g.doubleclick.net # A redirect to Google's AdSense platform, which serves ads across various websites and apps.
+googleads.g.doubleclick.net
 #googleads2.g.doubleclick.net
 #googleads4.g.doubleclick.net
 static.doubleclick.net
