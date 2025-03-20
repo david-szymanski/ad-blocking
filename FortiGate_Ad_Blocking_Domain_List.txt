@@ -23,4 +23,4 @@
 # Peacock
 
 #demdex.com
-#demdex.net
+dpm.demdex.net
