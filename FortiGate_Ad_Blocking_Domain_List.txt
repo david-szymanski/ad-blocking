@@ -5,19 +5,22 @@
 
 # Youtube
 
-googleads.g.doubleclick.net
-googleads2.g.doubleclick.net
-googleads4.g.doubleclick.net
-static.doubleclick.net
-www.googleadservices.com
-ad.doubleclick.net
-tpc.googlesyndication.com
-ade.googlesyndication.com
-buttons.googlesyndication.com
-pagead.googlesyndication.com
-pagead1.googlesyndication.com
-pagead2.googlesyndication.com
-pagead3.googlesyndication.com
-ads.youtube.com
+#googleads.g.doubleclick.net
+#googleads2.g.doubleclick.net
+#googleads4.g.doubleclick.net
+#static.doubleclick.net
+#www.googleadservices.com
+#ad.doubleclick.net
+#tpc.googlesyndication.com
+#ade.googlesyndication.com
+#buttons.googlesyndication.com
+#pagead.googlesyndication.com
+#pagead1.googlesyndication.com
+#pagead2.googlesyndication.com
+#pagead3.googlesyndication.com
+#ads.youtube.com
 
-# Hulu 
+# Peacock
+
+#demdex.com
+#demdex.net
